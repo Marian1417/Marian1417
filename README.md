@@ -14,8 +14,7 @@ Skills:  REACT / JS / HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marian1417)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian1417)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marian1417&show_icons=true)  
+[![Marian1417 GitHub stats](https://github-readme-stats.vercel.app/api?username=Marian1417)](https://github.com/Marian1417/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Marian1417)  
 
