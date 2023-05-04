@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Marian
+### Hi there 👋, 
 ![](https://user-images.githubusercontent.com/126475937/231514175-7cc72d36-3f07-4154-93f6-57466a342e7f.png)
 
 I love learning new technologies and contributing to open source.
